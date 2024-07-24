@@ -4,7 +4,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Juan Pablo Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Juan Pablo, thank you for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me
@@ -13,7 +13,7 @@
 
 - 🔭 I’am currently an aspiring university student in Medellín.
   
-- 🌱 I’am currently deepening my learning in Python, MySQL and Php + Laravel.
+- 🌱 I’am currently deepening my learning in Python, MySQL and PHP + Laravel.
   
 - 👯 I’m looking to collaborate on Side-Projects.
   
